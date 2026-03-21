@@ -225,12 +225,6 @@ body {
   animation: fadeUp 0.8s var(--ease-out) 0.3s both;
 }
 
-.hero__cta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  animation: fadeUp 0.8s var(--ease-out) 0.4s both;
-}
 
 .hero__scroll {
   position: absolute;
